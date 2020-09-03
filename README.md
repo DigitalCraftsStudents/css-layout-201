@@ -8,7 +8,7 @@
     - [1.2 Bonus Bonus - Chess pieces](#12-bonus-bonus---chess-pieces)
   - [2.0 Make a Modal Dialog](#20-make-a-modal-dialog)
     - [3.1 Bonus - Fullscreen Overlay](#21-bonus---fullscreen-overlay)
-  - [3.0 Mondrian](#20-mondrian)
+  - [3.0 Mondrian](#30-mondrian)
 
 ## 1.0 Chessboard
 
